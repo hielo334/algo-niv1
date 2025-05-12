@@ -38,7 +38,7 @@ public class exo15 {
         
         Scanner scanner = new Scanner(System.in);
         
-        // Taux de conversion (basés sur les données de Boursorama)
+        // Taux de conversion
         
         final double EUR_TO_USD = 1.1382;  // 1 EUR = 1.1382 USD
         final double EUR_TO_GBP = 0.8563;  // 1 EUR = 0.8563 GBP
