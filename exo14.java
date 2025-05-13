@@ -26,7 +26,7 @@ public class exo14 {
         
         
         System.out.println("Donner une valeur A OU B ET NON C");// Afficher le message d'introduction
-        System.out.println(); // Ligne vide
+        System.out.println(); 
         
        
         System.out.println("Entrez la valeur de A (true/false):"); // Lire les trois valeurs booléennes A, B et C
