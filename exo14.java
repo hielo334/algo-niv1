@@ -17,8 +17,7 @@
  * 
  * 
 */
-import java.util.Scanner; // Import de la classe Scanner pour la saisie
-
+import java.util.Scanner; 
 public class exo14 {
     public static void main(String[] args) {
         
@@ -48,7 +47,7 @@ public class exo14 {
         System.out.println("Résultat : " + resultat);// Afficher le résultat
         
         
-        scanner.close();// Fermer le scanner 
+        scanner.close();
     }
 }
 
