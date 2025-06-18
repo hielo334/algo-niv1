@@ -25,7 +25,7 @@ public class exo3 {
         Scanner scanner = new Scanner(System.in);
 
         // Lire les valeurs de a et b
-        System.out.print("a = ");
+        System.out.print("a = "); /* test */
         int a = scanner.nextInt();
 
         System.out.print("b = ");
